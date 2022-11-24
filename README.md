@@ -5,8 +5,8 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NutiNaguti&show_icons=true&layout=compact&theme=transparent&hide=issues,contribs&card_width=300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NutiNaguti&show_icons=true&layout=compact&theme=transparent&hide=issues&card_width=400" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NutiNaguti&layout=compact&theme=transparent&card_width=300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NutiNaguti&layout=compact&theme=transparent&card_width=400" />
 </a>
