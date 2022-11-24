@@ -2,5 +2,6 @@
 <p align="center">
   I'm software developer from Russia 🇷🇺<br/>
   I'm passionate about web and blockchain development! 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NutiNaguti&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NutiNaguti&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
