@@ -4,4 +4,4 @@
   I'm passionate about web and blockchain development! 🔭
 </p>
 
-<img height="600px" align="center" valign="center" src="https://raw.githubusercontent.com/NutiNaguti/nyancat-svg/07e3ee6eebc7fc15d997bc0692ba89cbb0d182a0/nyancat.svg" alt="nyan" />
+<img height="1200px" align="center" valign="center" src="https://raw.githubusercontent.com/NutiNaguti/nyancat-svg/07e3ee6eebc7fc15d997bc0692ba89cbb0d182a0/nyancat.svg" alt="nyan" />
