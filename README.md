@@ -4,12 +4,9 @@
   I'm passionate about web and blockchain development! 
 </p>
 
-<div style="align: center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NutiNaguti&show_icons=true&layout=compact&theme=transparent&hide=issues,contribs" />
-</a>  
-</div>
-
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NutiNaguti&layout=compact&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NutiNaguti&layout=compact&theme=transparent&card_width=250" />
 </a>
