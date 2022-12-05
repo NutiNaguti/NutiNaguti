@@ -15,8 +15,9 @@
   </div>
 </div>
   
-<h1 align="center">Hi there 👋</h1>
-<p align="center">
+<div align="center">
+<h1>Hi there 👋</h1>
+<p>
   I'm software developer from Russia 🇷🇺<br/>
   I'm passionate about web and blockchain development! 🔭
 </p>
@@ -32,4 +33,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" width="40" height="40" />&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" width="40" height="40" />&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-plain.svg" width="40" height="40" />&nbsp
+</div>
 </div>
